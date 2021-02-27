@@ -128,9 +128,22 @@ h1 {
 }
 
 h1+p {
+	left: 0;
+	width: 20%;
+	height: 0;
+	text-align: right;
+}
+
+h1+p img {
+	width: 150px;
+	border-radius: 100%;
+}
+
+h1+p+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
+	min-height: 150px;
 }
 
 h2 {

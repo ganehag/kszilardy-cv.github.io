@@ -7,23 +7,59 @@ title: Katarina Szilardy | Circum Vitae
 
 Om mig
 
-## Nuvarande
+## Personliga egenskaper
+
+## Examen
 
 ## Utbilding
 
-`19XX-2000`
-__Skol skolan.__
+`2019-`
+_Mediateknik: Digital bildproduktion_  
+Blekinge Tekniska Högskola, Karlshamn
 
-`September 2010 - nu`
-__Bla bla skolan__
+`2011-2013`
+_Ekonomiprogrammet för innovation och affärsutveckling_  
+Blekinge Tekniska Högskola, Karlskrona  
+Studierna avbröts under 2013.
+
+`2005-2006`
+_Språkutbildning_  
+Academia Málaga Plus, Spanien  
+Utbildning i två terminer med fokus på spanska språket.
+
+## Anställning
+
+## Praktik
+
+## Ideell verksamhet
+
+`2011-2013`
+_Unga Aktiesparare, Kristianstad_
 
 
-### Lista
+## Övriga meriter
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Sed ac quam non mi varius viverra.
-- Sed scelerisque nulla posuere convallis congue.
+`våren 2012`
+_Tillväxtverket och Vinnova, Ungas Innovationskraft BTH, Karlskrona_
 
+
+## Körkort
+
+- B-körkor
+- A4-truckkort
+
+
+## Språkkunskaper
+
+- Svenska, _modermål_
+- Ungerska, _flytande_
+- Engelska, _goda kunskaper_
+- Spanska, _goda kunskaper, ringrostig_
+- Tyska, _nybörjarnivå_
+
+## Referenser
+
+Visas på efterfrågan.
 
 <!-- ### Footer
 

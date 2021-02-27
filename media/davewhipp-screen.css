@@ -130,9 +130,21 @@ h1 {
 }
 
 h1+p {
+	left: 0;
+	width: 20%;
+	height: 0;
+}
+
+h1+p img {
+	width: 200px;
+	border-radius: 100%;
+}
+
+h1+p+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
+	height: 200px;
 }
 
 h2 {

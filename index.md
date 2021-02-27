@@ -3,7 +3,7 @@ layout: cv
 title: Katarina Szilardy | Circum Vitae
 ---
 
-![Katarina Szilardy](images/profile.jpg)
+![Katarina Szilardy](/images/profile.jpg)
 
 # Katarina Szilardy
 

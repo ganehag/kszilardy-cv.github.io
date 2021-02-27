@@ -14,16 +14,16 @@ Om mig
 ## Utbilding
 
 `2019-`
-_Mediateknik: Digital bildproduktion_  
+__Mediateknik: Digital bildproduktion__  
 Blekinge Tekniska Högskola, Karlshamn
 
 `2011-2013`
-_Ekonomiprogrammet för innovation och affärsutveckling_  
+__Ekonomiprogrammet för innovation och affärsutveckling__  
 Blekinge Tekniska Högskola, Karlskrona  
 Studierna avbröts under 2013.
 
 `2005-2006`
-_Språkutbildning_  
+__Språkutbildning__  
 Academia Málaga Plus, Spanien  
 Utbildning i två terminer med fokus på spanska språket.
 
@@ -34,13 +34,13 @@ Utbildning i två terminer med fokus på spanska språket.
 ## Ideell verksamhet
 
 `2011-2013`
-_Unga Aktiesparare, Kristianstad_
+__Unga Aktiesparare, Kristianstad__
 
 
 ## Övriga meriter
 
 `våren 2012`
-_Tillväxtverket och Vinnova, Ungas Innovationskraft BTH, Karlskrona_
+__Tillväxtverket och Vinnova, Ungas Innovationskraft BTH, Karlskrona__
 
 
 ## Körkort

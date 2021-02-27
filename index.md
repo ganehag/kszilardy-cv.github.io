@@ -11,6 +11,16 @@ Om mig
 
 ## Examen
 
+`juni 2009`
+__Yrkeshögskoleexamen__  
+Swedish Collage of Travel and Tourism (SCoTT), Orsa  
+Inriktning: Hälsa och turism
+
+- Certifierad lokal guide
+- Diplomerad Spa-terapeut (Kerstin Florian)
+- Diplomerad massör (Axelsons)
+- Licensierad styrketräningsinstruktör (SAFE)
+
 ## Utbilding
 
 `2019-`
@@ -29,7 +39,38 @@ Utbildning i två terminer med fokus på spanska språket.
 
 ## Anställning
 
+`2010-2020`
+__Stena Line Scandinavia AB, Göteborg/Karlskrona__  
+Började i restaurang och gick sedan över till butiken efter omplacering från Göteborg till Karlskrona.
+
+`hösten 2009`
+__Smidgården, Fryksås__
+
+`hösten 2009`
+__H&M, Mora__
+
+`sommaren 2009`
+__Orsa Stadshotell, Orsa__
+
+`somrarna 2007, 2008`
+__Palm Gelato, Borgholm__
+
+`sommaren 2006`
+__Jämshögs Gästgiveri, Jämshög__
+
 ## Praktik
+
+`våren 2009`
+__Best Western Mora Hotell & Spa, Mora__
+
+`hösten 2008`
+__Hotel Escencia Estate, Rivera Maya, Mexico__
+
+`våren 2008`
+__Atlantis Spa, Jönköping__
+
+`vintern 2006`
+__First Hotell, Olofström__
 
 ## Ideell verksamhet
 

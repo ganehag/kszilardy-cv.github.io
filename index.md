@@ -5,7 +5,7 @@ title: Katarina Szilardy | Circum Vitae
 
 # Katarina Szilardy
 
-![Katarina Szilardy](/images/profile.jpg)
+![Katarina Szilardy](images/profile.jpg)
 
 Om mig
 
@@ -60,6 +60,10 @@ __Palm Gelato, Borgholm__
 
 `sommaren 2006`
 __Jämshögs Gästgiveri, Jämshög__
+
+`hösten 2004`
+__Olofströms Turistbyrå, Olofström__  
+Arbetade som receptionist och turistvärdinna. Även kundbetjäning och arbete med hemsida och textbearbetning ingick i uppgifterna.
 
 ## Praktik
 

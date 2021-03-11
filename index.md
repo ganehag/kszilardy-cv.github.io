@@ -7,8 +7,7 @@ title: Katarina Szilardy | Circum Vitae
 
 ![Katarina Szilardy](images/profile.jpg)
 
-För mig är det viktigt ...
-
+Miljömedvetenhet och hälsa har varit ett viktigt intresse för mig under många år. Jag har gjort flera aktiva val som återspeglar sig i dessa intressen. Jag är även nyfiken på vad som sker i vårt samhälle och i ekonomin och har därigenom utvecklat ett intresse för börsmarknaden och placeringar. Målet med mina studier inom medieteknik att jag ska kunna tillämpa olika tekniker inom foto och rörlig bild för att förmedla ett budskap genom visuellt berättande i mitt framtida yrke. 
 
 ## Personliga egenskaper
 
@@ -47,7 +46,7 @@ Utbildning i två terminer med fokus på spanska språket.
 
 `2010-2020`
 __Stena Line Scandinavia AB, Göteborg/Karlskrona__  
-Började i restaurang och gick sedan över till butiken efter omplacering från Göteborg till Karlskrona.
+Under årens lopp har jag i färjans butik haft ansvar inom godis- misc- och parfymavdelningen när det gäller beställningar, lagerhantering, produktplacering och försäljning. Även kassatjänst har ingått i arbetet där jag hanterade stora summor kontanter i olika valutor. Jag ingick också i fartygets säkerhetsorganisation och har kunskap i hur man sjösätter räddningsfarkoster och hur man hanterar större folkmassor i en krissituation.
 
 `hösten 2009`
 __Smidgården, Fryksås__  

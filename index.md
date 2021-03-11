@@ -7,7 +7,7 @@ title: Katarina Szilardy | Circum Vitae
 
 ![Katarina Szilardy](images/profile.jpg)
 
-Miljömedvetenhet och hälsa har varit ett viktigt intresse för mig under många år. Jag har gjort flera aktiva val som återspeglar sig i dessa intressen. Jag är även nyfiken på vad som sker i vårt samhälle och i ekonomin och har därigenom utvecklat ett intresse för börsmarknaden och placeringar. Målet med mina studier inom medieteknik att jag ska kunna tillämpa olika tekniker inom foto och rörlig bild för att förmedla ett budskap genom visuellt berättande i mitt framtida yrke. 
+Miljömedvetenhet och hälsa har varit ett viktigt intresse för mig under många år. Jag har gjort flera aktiva val som återspeglar sig i dessa intressen. Jag är även nyfiken på vad som sker i vårt samhälle och i ekonomin och har därigenom utvecklat ett intresse för börsmarknaden och placeringar. Målet med mina studier inom medieteknik är att jag ska kunna tillämpa olika tekniker inom foto och rörlig bild, för att förmedla ett budskap genom visuellt berättande i mitt framtida yrke. 
 
 ## Personliga egenskaper
 

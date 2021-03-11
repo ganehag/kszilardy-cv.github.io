@@ -7,10 +7,12 @@ title: Katarina Szilardy | Circum Vitae
 
 ![Katarina Szilardy](images/profile.jpg)
 
-Om mig
+För mig är det viktigt ...
 
 
 ## Personliga egenskaper
+
+Jag är en utåtriktad och tillmötesgående individ som ständigt söker kontakt med andra människor. Jag är noggrann och systematisk i mitt arbetssätt och strävar efter att alltid ha koll på läget. Min lyhördhet och mitt tålamod gör det möjligt för mig att snabbt anpassa mig till nya situationer.
 
 ## Examen
 
@@ -24,11 +26,12 @@ Inriktning: Hälsa och turism
 - Diplomerad massör (Axelsons)
 - Licensierad styrketräningsinstruktör (SAFE)
 
-## Utbilding
+## Utbildning
 
 `2019-`
-__Mediateknik: Digital bildproduktion__  
-Blekinge Tekniska Högskola, Karlshamn
+__Medieteknik: Digital bildproduktion__  
+Blekinge Tekniska Högskola, Karlshamn  
+Pågående utbildning.
 
 `2011-2013`
 __Ekonomiprogrammet för innovation och affärsutveckling__  
@@ -47,59 +50,65 @@ __Stena Line Scandinavia AB, Göteborg/Karlskrona__
 Började i restaurang och gick sedan över till butiken efter omplacering från Göteborg till Karlskrona.
 
 `hösten 2009`
-__Smidgården, Fryksås__
+__Smidgården, Fryksås__  
+Arbetade som massör och spa-terapeut.
 
 `hösten 2009`
-__H&M, Mora__
+__H&M, Mora__  
+Arbetade som butikssäljare. Till arbetsuppgifterna hörde bland annat kassahantering, packa upp varor, hålla snyggt i butiken samt att bemöta kunder på bästa sätt på butiksgolvet.
 
 `sommaren 2009`
-__Orsa Stadshotell, Orsa__
+__Orsa Stadshotell, Orsa__  
+Arbetade främst som servitris, men även som bartender och entrévärd vid större evenemang.
 
 `somrarna 2007, 2008`
-__Palm Gelato, Borgholm__
+__Palm Gelato, Borgholm__  
+Arbetade främst som försäljare på en glassbar för hantverksglass. När chefen inte var närvarande så hade jag kassa- och personalansvaret.
 
 `sommaren 2006`
-__Jämshögs Gästgiveri, Jämshög__
+__Jämshögs Gästgiveri, Jämshög__  
+Arbetade som servitris.
 
 `hösten 2004`
 __Olofströms Turistbyrå, Olofström__  
 Arbetade som receptionist och turistvärdinna. Även kundbetjäning och arbete med hemsida och textbearbetning ingick i uppgifterna.
 
-## Praktik
+## Yrkespraktik
 
 `våren 2009`
-__Best Western Mora Hotell & Spa, Mora__
+__Best Western Mora Hotell & Spa, Mora__  
+Arbetade främst på hotellets spa-avdelning som massör och spa-terapeut. Fick även hoppa in som receptionist vid hål i tidbokningen.
 
 `hösten 2008`
-__Hotel Escencia Estate, Rivera Maya, Mexico__
+__Hotel Escencia Estate, Rivera Maya, Mexico__  
+Arbetade främst på lyxhotellets spa-hydda, både med behandlingar och i receptionen.
 
 `våren 2008`
-__Atlantis Spa, Jönköping__
-
-`vintern 2006`
-__First Hotell, Olofström__
+__Atlantis Spa, Jönköping__  
+Här fick jag möjlighet att jobba självständigt och utveckla min massageteknik genom att bedriva min "egna massageverksamhet".
 
 ## Ideell verksamhet
 
 `2011-2013`
-__Unga Aktiesparare, Kristianstad__
+__Unga Aktiesparare, Kristianstad__  
+Satt med i styrelsen och anordnade olika event för medlemmarna.
 
-
+<!--
 ## Övriga meriter
 
 `våren 2012`
 __Tillväxtverket och Vinnova, Ungas Innovationskraft BTH, Karlskrona__
-
+-->
 
 ## Körkort
 
-- B-körkor
+- B-körkort
 - A4-truckkort
 
 
 ## Språkkunskaper
 
-- Svenska, _modermål_
+- Svenska, _modersmål_
 - Ungerska, _flytande_
 - Engelska, _goda kunskaper_
 - Spanska, _goda kunskaper, ringrostig_
